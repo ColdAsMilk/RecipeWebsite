@@ -11800,19 +11800,19 @@
   },
   "packageFolders": {
     "C:\\Users\\kyler\\.nuget\\packages\\": {},
-    "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kyler\\source\\repos\\RecipeeWebsite\\RecipeeWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\kyler\\Documents\\GitHub\\RecipeWebsite\\RecipeeWebsite.csproj",
       "projectName": "RecipeeWebsite",
-      "projectPath": "C:\\Users\\kyler\\source\\repos\\RecipeeWebsite\\RecipeeWebsite.csproj",
+      "projectPath": "C:\\Users\\kyler\\Documents\\GitHub\\RecipeWebsite\\RecipeeWebsite.csproj",
       "packagesPath": "C:\\Users\\kyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kyler\\source\\repos\\RecipeeWebsite\\obj\\",
+      "outputPath": "C:\\Users\\kyler\\Documents\\GitHub\\RecipeWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\kyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11869,7 +11869,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
