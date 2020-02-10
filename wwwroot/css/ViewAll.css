@@ -1,6 +1,11 @@
-.column {
+.column-left{
   float: left;
-  width: 50%;
+  width: 65%;
+}
+
+.column-right{
+  float: left;
+  width: 35%;
 }
 
 /* Clear floats after the columns */
@@ -15,4 +20,8 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.recipe-link {
+  width: 100%;
 }
